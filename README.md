@@ -1,6 +1,6 @@
-# Productivity-Partner
+<img width="321" alt="Screenshot 2023-10-28 at 11 08 53 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/d96fbba0-bcb1-42a5-9ad2-b7623791413b"><img width="367" alt="Screenshot 2023-10-28 at 11 10 38 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/0a402c72-de3f-4132-a61b-6239ee22b0e1"><img width="367" alt="Screenshot 2023-10-28 at 11 10 38 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/7193020f-726d-4d28-ac66-c1e5e8b77778"><img width="365" alt="Screenshot 2023-10-28 at 11 12 49 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/c72bd491-78ab-43f4-86f8-4f07ad063e6c"># Productivity-Partner
 
-![Productivity Partner Logo](icon.png)
+![Productivity Partner Logo]
 
 Productivity Partner is a Chrome extension designed to boost your productivity using the Pomodoro Technique. It offers a feature-rich timer and task management, allowing you to stay focused and organized during work or study sessions.
 
@@ -29,8 +29,26 @@ To get started with Productivity Partner, follow these simple steps:
 4. **Pause and Reset:** Utilize the "Pause Timer" and "Reset Timer" buttons to control the timer during your work sessions.
 
 ## Screenshots
+<img width="425" alt="Screenshot 2023-10-28 at 11 08 22 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/e6d647a7-012b-492b-9192-fd0c983be5ec">
 
-![Screenshot 1](/screenshots/screenshot1.png)
+
+<img width="321" alt="Screenshot 2023-10-28 at 11 08 53 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/73a71f29-85fd-4419-a796-8b0a2b91444b">
+
+
+
+<img width="1470" alt="Screenshot 2023-10-28 at 11 10 12 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/ecb26bf4-0bfa-4d71-b618-7dc5c6b8042d">
+
+
+<img width="365" alt="Screenshot 2023-10-28 at 11 12 49 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/7ba7fd7a-af9e-4956-9037-7790941f3007">
+<img width="362" alt="Screenshot 2023-10-28 at 11 12 19 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/796567f9-a45d-4728-96df-287ac9f5230e">
+
+<img width="365" alt="Screenshot 2023-10-28 at 11 11 56 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/5d47c47e-1bdd-4e73-9f69-d5259dca6452">
+
+<img width="365" alt="Screenshot 2023-10-28 at 11 11 27 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/2b600154-131a-4a3f-83c5-1738c332f8b1">
+
+<img width="367" alt="Screenshot 2023-10-28 at 11 10 38 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/e0cf0772-4a81-4087-9740-77e356f0cb40">
+
+
 
 ## Contributing
 
@@ -57,7 +75,7 @@ For questions or suggestions, please don't hesitate to contact us at [your-email
 
 ## Authors
 
-- [Your Name](https://github.com/your-github-username)
+- (https://github.com/Jagriti-grover20)
 
 ## Version History
 
