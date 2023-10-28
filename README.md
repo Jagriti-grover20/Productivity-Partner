@@ -1,6 +1,6 @@
 # Productivity-Partner
+<img width="425" alt="Screenshot 2023-10-28 at 11 08 22 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/e6d647a7-012b-492b-9192-fd0c983be5ec">
 
-![Productivity Partner Logo]
 
 Productivity Partner is a Chrome extension designed to boost your productivity using the Pomodoro Technique. It offers a feature-rich timer and task management, allowing you to stay focused and organized during work or study sessions.
 
@@ -29,7 +29,7 @@ To get started with Productivity Partner, follow these simple steps:
 4. **Pause and Reset:** Utilize the "Pause Timer" and "Reset Timer" buttons to control the timer during your work sessions.
 
 ## Screenshots
-<img width="425" alt="Screenshot 2023-10-28 at 11 08 22 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/e6d647a7-012b-492b-9192-fd0c983be5ec">
+
 
 
 
@@ -54,13 +54,19 @@ To get started with Productivity Partner, follow these simple steps:
 
 
 
-Design of the Timer: 
+Design of the Timer:
+
+
 <img width="1470" alt="Screenshot 2023-10-28 at 11 10 12 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/ecb26bf4-0bfa-4d71-b618-7dc5c6b8042d">
 
 Enter a Task:
+
+
 <img width="365" alt="Screenshot 2023-10-28 at 11 11 27 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/2b600154-131a-4a3f-83c5-1738c332f8b1">
 
 After Deletion of Task: 
+
+
 <img width="365" alt="Screenshot 2023-10-28 at 11 11 56 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/5d47c47e-1bdd-4e73-9f69-d5259dca6452">
 
 
