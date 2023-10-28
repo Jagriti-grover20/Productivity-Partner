@@ -32,7 +32,28 @@ To get started with Productivity Partner, follow these simple steps:
 <img width="425" alt="Screenshot 2023-10-28 at 11 08 22 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/e6d647a7-012b-492b-9192-fd0c983be5ec">
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="321" alt="Screenshot 2023-10-28 at 11 08 53 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/73a71f29-85fd-4419-a796-8b0a2b91444b">
+
 
 
 
