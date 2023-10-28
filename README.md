@@ -1,4 +1,4 @@
-<img width="321" alt="Screenshot 2023-10-28 at 11 08 53 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/d96fbba0-bcb1-42a5-9ad2-b7623791413b"><img width="367" alt="Screenshot 2023-10-28 at 11 10 38 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/0a402c72-de3f-4132-a61b-6239ee22b0e1"><img width="367" alt="Screenshot 2023-10-28 at 11 10 38 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/7193020f-726d-4d28-ac66-c1e5e8b77778"><img width="365" alt="Screenshot 2023-10-28 at 11 12 49 PM" src="https://github.com/Jagriti-grover20/Productivity-Partner/assets/98024578/c72bd491-78ab-43f4-86f8-4f07ad063e6c"># Productivity-Partner
+# Productivity-Partner
 
 ![Productivity Partner Logo]
 
